@@ -1,0 +1,49 @@
+h1 {
+  text-align: center;
+  font-size: 60px;
+  color: black;                                                                 ;
+}
+body {
+background-color: grey;
+}
+.hub {
+  font-size: 50px;
+  text-align: ;
+}
+topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 50px;
+}
+navbar {
+  width: 100%;
+  background-color: #555;
+  overflow: auto;
+}
+.navbar a {
+  float: left;
+  text-align: center;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 50px;
+}
+.active {
+  background-color: #4CAF50;
+}
+.navbar a:hover {
+  background-color: #000;
+}
+.img {
+  float: left;
+}
+.container {
+  text-align: left;
+}
+.company-box {
+  padding: 20px;
+}
