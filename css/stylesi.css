@@ -1,0 +1,21 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  background-image: url("../img/iron2.jpeg");
+
+  height: 100%;
+
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+}
+
+.company-box{
+  padding: 20px !important;
+}
+
+.content{
+  border: 1px solid #fff;
+  min-height: 500px !important;
+  border-radius: 5px;
+}
