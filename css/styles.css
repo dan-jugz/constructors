@@ -117,5 +117,9 @@ textarea.form-control {
   width: 150px;
   background-color: transparent;
   color: #fff;
+  }
+.info {
+color: green;
+font-size: 35px;
 
-}
+  }
