@@ -19,3 +19,9 @@ body, html {
   min-height: 500px !important;
   border-radius: 5px;
 }
+.a{
+  text-align: center;
+}
+.p{
+  font-family: serif;
+}
