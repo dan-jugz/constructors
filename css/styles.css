@@ -1,10 +1,27 @@
+
+.company-box{
+  padding: 20px !important;
+}
+.content{
+  border: 1px solid #cyan;
+  border-radius: 5px;
+}
+.a{
+  text-align: center;
+}
+.p{
+  font-family: serif;
+}
 h1 {
   text-align: center;
   font-size: 60px;
-  color: black;                                                                 ;
+  color: purple;
+  font-style: oblique;                                                                ;
 }
 body {
-background-image: url("../img/sky.gif");
+background-color: #cccccc;
+background-repeat: no-repeat;
+background-position: 100%;
 }
 .hub {
   font-size: 50px;
@@ -36,7 +53,7 @@ navbar {
   background-color: #4CAF50;
 }
 .navbar a:hover {
-  background-color: #000;
+  background-color: #cyan;
 }
 .img {
   float: left;
