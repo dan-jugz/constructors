@@ -4,7 +4,7 @@ h1 {
   color: black;                                                                 ;
 }
 body {
-background-color: grey;
+background-image: url("../img/sky.gif");
 }
 .hub {
   font-size: 50px;
@@ -42,7 +42,15 @@ navbar {
   float: left;
 }
 .container {
-  text-align: left;
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.top-right {
+  position: absolute;
+  top: 80px;
+  right: 16px;
+  color: #fff;
 }
 .company-box {
   padding: 20px;
