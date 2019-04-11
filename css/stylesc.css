@@ -1,7 +1,7 @@
 body, html {
   height: 100%;
   margin: 0;
-  background-image: url("../img/tiles.jpeg");
+  background-image: url("../img/tile4.jpeg");
 
   height: 100%;
 
@@ -15,6 +15,7 @@ body, html {
 }
 
 .content{
+  min-height: 500px !important;
   border: 1px solid #fff;
   min-height: 500px !important;
   border-radius: 5px;
