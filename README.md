@@ -16,11 +16,11 @@ Install OS X, Linux, or Windows
 
 
 # Authors
-Zack Matere
-Daniel Njuguna
-Andrew Mwangi
-Faith Wangari
-Kelvin Kituni
+1. Zack Matere
+2. Daniel Njuguna
+3. Andrew Mwangi
+4. Faith Wangari
+5. Kelvin Kituni
 
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details
